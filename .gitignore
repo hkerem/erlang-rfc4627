@@ -3,3 +3,8 @@ test/server_root/logs/*_log
 build
 dist
 doc
+debian/files
+debian/rfc4627-erlang.debhelper.log
+debian/rfc4627-erlang.substvars
+debian/rfc4627-erlang/
+debian/stamp-makefile-build
