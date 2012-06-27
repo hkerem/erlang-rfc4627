@@ -11,8 +11,7 @@ SIGNING_KEY_ID=F8D7D525
 VERSION=HEAD
 PACKAGE_NAME=rfc4627_jsonrpc
 
-# for lucid its 13b3
-INETS_DEF=-Dinets_pre_r14a
+INETS_DEF=
 
 all: $(TARGETS)
 
