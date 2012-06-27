@@ -1,4 +1,4 @@
-rfc4627-erlang (1.1.1) unstable; urgency=low
+rfc4627-erlang (1.1.1-2) unstable; urgency=low
 
   * Fix \u escaping for surrogate pairs.
 
